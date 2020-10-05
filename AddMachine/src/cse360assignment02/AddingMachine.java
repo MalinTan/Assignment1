@@ -10,7 +10,7 @@ import java.util.*;
  * @author Malin Tan
  * @version 1.0
  * @since 2020-10-05 
- * Email: mtan12@asu.edu 
+ * Email: mtan12@asu.edu
  * ID: 1216503951
  */
 public class AddingMachine {
@@ -23,7 +23,6 @@ public class AddingMachine {
 	 * to 0, and initializes the ArrayList to hold the operator, and number values.
 	 * 
 	 */
-
 	public AddingMachine() {
 		total = 0; // not needed - included for clarity
 		operators = new ArrayList<String>(); // initialize the ArrayList to hold operator values
