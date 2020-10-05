@@ -6,6 +6,8 @@ import java.util.*;
  * The AddingMachine program implements an application that either adds,
  * subtracts, and displays the history of transactions that is given to the
  * program. The program also clears the memory of transactions for a reset.
+ * 
+ * repository: https://github.com/MalinTanStudent/Assignment1
  *
  * @author Malin Tan
  * @version 1.0
