@@ -18,6 +18,12 @@ public class AddingMachine {
 	private ArrayList<String> operators;
 	private ArrayList<Integer> numbers;
 
+	/**
+	 * This method is the constructor of the AddingMachine class. It sets the total
+	 * to 0, and initializes the ArrayList to hold the operator, and number values.
+	 * 
+	 */
+
 	public AddingMachine() {
 		total = 0; // not needed - included for clarity
 		operators = new ArrayList<String>(); // initialize the ArrayList to hold operator values
